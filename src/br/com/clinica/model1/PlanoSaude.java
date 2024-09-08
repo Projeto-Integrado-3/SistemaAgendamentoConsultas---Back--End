@@ -10,7 +10,5 @@ public class PlanoSaude {
 	        this.nomePlano = nomePlano;
 	        this.cobertura = cobertura;
 	    }
-
-
 	
 }
