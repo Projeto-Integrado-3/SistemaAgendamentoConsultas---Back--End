@@ -1,5 +1,5 @@
-
 package br.com.clinica.model1;
+
 import java.util.Date;
 
 public class Consulta {
