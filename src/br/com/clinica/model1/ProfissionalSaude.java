@@ -12,9 +12,9 @@ public class ProfissionalSaude {
 	    String telefone;
 	    String email;
 	    String especialidade;
-	    int crm;
+	    int registro;
 
-	    public ProfissionalSaude(int idProfSaude, String nome, String cpf, String endereco, int numero, String bairro, String cidade, String uf, String telefone, String email, String especialidade, int crm) {
+	    public ProfissionalSaude(int idProfSaude, String nome, String cpf, String endereco, int numero, String bairro, String cidade, String uf, String telefone, String email, String especialidade, int registro) {
 	        this.idProfSaude = idProfSaude;
 	        this.nome = nome;
 	        this.cpf = cpf;
@@ -26,7 +26,7 @@ public class ProfissionalSaude {
 	        this.telefone = telefone;
 	        this.email = email;
 	        this.especialidade = especialidade;
-	        this.crm = crm;
+	        this.registro = registro;
 	    }
 
 
