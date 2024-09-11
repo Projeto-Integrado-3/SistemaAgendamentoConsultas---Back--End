@@ -26,6 +26,6 @@ IDE: Eclipse
 Controle de Versão: Git e GitHub 
 
 ## Processos de Software:
-O projeto foi desenvolvido com base em princípios de progração Orientada a Objetos, como encapsulamento, reutilização de código, e boas práticas de programação. 
+O projeto foi desenvolvido com base em princípios de Programação Orientada a Objetos, como encapsulamento, reutilização de código, e boas práticas de programação. 
 
 
