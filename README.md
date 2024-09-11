@@ -1,7 +1,11 @@
-Autores:/n
+Autores:
+
 MARCONDES ALVES DUARTE - 2023010217
+
 RAYANE AMARO DOS SANTOS - 2023010280
+
 VALDEILSON BEZERRA DE LIMA – 2023010306
+
 
 Projeto: Sistema de Agendamento para Clínica Médica 
 
