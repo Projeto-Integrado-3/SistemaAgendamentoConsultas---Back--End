@@ -20,8 +20,10 @@ Compile os arquivos no diretório `/src`.
 Execute o programa a partir do arquivo principal (se aplicável).
 
 ## Ferramentas: 
-Java 8 ou superior.
+Java 8 ou superior
+
 IDE: Eclipse 
+
 Controle de Versão: Git e GitHub 
 
 ### Processos de Software:
