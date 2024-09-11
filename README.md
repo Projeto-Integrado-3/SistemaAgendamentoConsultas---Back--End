@@ -1,16 +1,16 @@
 # Projeto: 
 Sistema de Agendamento para Clínica Médica 
 
-# Autores:
+# Descrição:
+Este projeto implementa um sistema de agendamento de consultas médicas. O sistema permite que pacientes se cadastrem, agendem consultas e acessem informações sobre profissionais de saúde e planos de saúde. 
+
+## Autores:
 
 MARCONDES ALVES DUARTE - 2023010217
 
 RAYANE AMARO DOS SANTOS - 2023010280
 
 VALDEILSON BEZERRA DE LIMA – 2023010306
-
-# Descrição:
-Este projeto implementa um sistema de agendamento de consultas médicas. O sistema permite que pacientes se cadastrem, agendem consultas e acessem informações sobre profissionais de saúde e planos de saúde. 
 
 ## Instruções:
 Para compilar e executar o projeto: 
