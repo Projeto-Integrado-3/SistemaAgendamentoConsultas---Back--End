@@ -25,8 +25,7 @@ IDE: Eclipse
 
 Controle de Versão: Git e GitHub 
 
-### Processos de Software:
+### Programação orientada a objetos:
 O projeto foi desenvolvido com base em princípios de Orientação a Objetos, como encapsulamento, reutilização de código, e boas práticas de programação. 
 
-# Licença:
-Licença Academic Free v3.0
+
