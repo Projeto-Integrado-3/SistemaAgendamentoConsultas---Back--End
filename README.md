@@ -1,5 +1,5 @@
 ## Projeto: 
-Sistema de Agendamento para Clínica Médica 
+Sistema de Agendamento de Consultas Médicas
 
 ## Descrição:
 Este projeto implementa um sistema de agendamento de consultas médicas. O sistema permite que pacientes se cadastrem, agendem consultas e acessem informações sobre profissionais de saúde e planos de saúde. 
