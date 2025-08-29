@@ -1,0 +1,10 @@
+br\com\clinica\model\PacienteProfSaude.class
+br\com\clinica\model\Consulta.class
+br\com\clinica\SistemaAgendamentoApplication.class
+br\com\clinica\exception\GlobalExceptionHandler.class
+br\com\clinica\controller\PacienteController.class
+br\com\clinica\model\Paciente.class
+br\com\clinica\repository\PacienteRepository.class
+br\com\clinica\model\ProfissionalSaude.class
+br\com\clinica\service\PacienteService.class
+br\com\clinica\model\PlanoSaude.class
